@@ -16,8 +16,8 @@
 
 **bpi_variants_tree.json**:
 
-**tree_visualization_bpi_original.html**:
+**tree_visualization_original.zip**:
 
-**tree_visualization_bpi_variant.html**:
+**tree_visualization_variant.zip**:
 
 **Enriched BPI Challenge 2016 Customer Support Log**: The enriched log is available at box folder link due to its big size: https://ibm.box.com/s/ymwiiz7bm82snqbh44q9h968jdmbspvx
